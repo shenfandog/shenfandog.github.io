@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>vmware虚拟机下载教程</title>
+      <link href="blog/xnjjc/"/>
+      <url>blog/xnjjc/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><div class="note info modern"><p>此教程教你如何快速上手vmware虚拟机</p></div><p>你需要有一台可用的电脑以及下载vmware虚拟机软件(废话)</p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p>下载地址：<a href="https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html">vm官网</a></p><p>网上很多的vmware都是不能用的，所以我们得在官网下载</p><p><img src="1.png" alt="点击DOWNLOAD NOW"></p><p>下载完后打开→运行</p><p><img src="2.png" alt="“下一步”"></p><p><img src="3.png" alt="勾上对勾+“下一步”"></p><p><img src="4.png" alt="“下一步”"></p><p><img src="5.png" alt="“下一步”*"></p><p>注释：图中的“更改”是安装的位置，可以自定义</p><div class="note warning modern"><p>千万不要安到桌面</p></div><p>为什么不要安桌面？ <span class="hide-inline"><button type="button" class="hide-button button--animated" style="background-color: black;color: #fff">查看答案  </button><span class="hide-content">桌面上会多出来100个文件</span></span></p><p><img src="6.png" alt="默认，“下一步”"></p><p><img src="7.png" alt="默认，“下一步”"></p><p><img src="8.png" alt="下载中，等进度条走完了就下载完了"></p><p>下载时间有点长，耐心等待，请勿砸电脑(doge)</p><p><img src="9.png" alt="点击“许可证”，不要点“完成”"></p><p><img src="10.png" alt="输入下面↓的任意一个许可证，点击“输入”，不要点“跳过”"></p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">vmware workstation16许可证密钥</span><br><span class="line">ZF3R0-FHED2-M80TY-8QYGC-NPKYF</span><br><span class="line">YF390-0HF8P-M81RQ-2DXQE-M2UT6</span><br><span class="line">ZF71R-DMX85-08DQY-8YMNC-PPHV8</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>三个都是能用的，但是有时候会用不了，因此如果显示无效的话就得一个一个试了</p><p><img src="11.png" alt="安装完成，点“完成”"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 虚拟机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试页面</title>
       <link href="blog/done/"/>
       <url>blog/done/</url>
